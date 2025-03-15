@@ -17,11 +17,11 @@
 ---
 
 ### About Me
-- 🔭 **Proyek Terkini:** [Proyek Dewa](#)
-- 🌱 **Sedang Belajar:** Teknologi Futuristik & AI canggih
+- 🔭 **Proyek Terkini:** [NovelScraping](https://github.com/HikiNarou/GUI-for-Novel-Scraping)
+- 🌱 **Sedang Belajar:** Python again & Machine Learning with AI 
 - 👯 **Kolaborasi:** Terbuka untuk proyek ambisius dan inovatif
 - 💬 **Tanya Saya:** Yuk bahas seputar coding, desain modern, & rahasia sukses!
-- 📫 **Hubungi Saya:** [HikiNarou@gmail.com](mailto:HikiNarou@gmail.com)
+- 📫 **Hubungi Saya:** [HikiNarou@gmail.com](mailto:hikinarou@gmail.com)
 - 😄 **Pronouns:** He/Him
 
 ---
