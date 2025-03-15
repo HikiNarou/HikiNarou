@@ -1,26 +1,26 @@
-# Hi, I'm HikiNarou! 👋
-## Selamat datang di dunia saya yang super dewa! ⚡️
+# Hi, I'm HikiNarou! 👑
+## Selamat datang di dunia yang mengguncang alam semesta! ⚡️🌌
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HikiNarou)](https://github.com/HikiNarou)
 
 <div align="center">
-  <!-- Banner modern -->
-  <img src="https://raw.githubusercontent.com/HikiNarou/brand/main/banner.png" alt="HikiNarou Banner" width="100%">
+  <!-- Cosmic Banner -->
+  <img src="https://raw.githubusercontent.com/HikiNarou/brand/main/banner.png" alt="HikiNarou Cosmic Banner" width="100%">
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GIF Sambutan -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hello GIF" width="80"/>
+  <!-- GIF Sambutan Cosmic -->
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Cosmic Welcome" width="100"/>
 </div>
 
 ---
 
 ### About Me
 - 🔭 **Proyek Terkini:** [NovelScraping](https://github.com/HikiNarou/GUI-for-Novel-Scraping)
-- 🌱 **Sedang Belajar:** Python again & Machine Learning with AI 
-- 👯 **Kolaborasi:** Terbuka untuk proyek ambisius dan inovatif
-- 💬 **Tanya Saya:** Yuk bahas seputar coding, desain modern, & rahasia sukses!
+- 🌱 **Sedang Belajar:** Python, Machine Learning, & Teknologi AI yang mengguncang semesta
+- 👯 **Kolaborasi:** Terbuka untuk proyek ambisius & inovatif yang menembus batas alam semesta
+- 💬 **Tanya Saya:** Diskusi tentang coding, desain futuristik, & rahasia kesuksesan para dewa
 - 📫 **Hubungi Saya:** [HikiNarou@gmail.com](mailto:hikinarou@gmail.com)
 - 😄 **Pronouns:** He/Him
 
@@ -73,11 +73,11 @@
 
 ### My Journey 🚀
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+realm;I+code+like+a+DEWA;Innovating+the+future+of+tech;Let's+build+something+epic!&center=true&size=28&color=F700FF&pause=1000" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Selamat+datang+di+alam+para+dewa;Koding+seperti+dewa;Inovasi+yang+mengguncang+semesta;Mari+cipta+keajaiban!&center=true&size=28&color=00FF00&pause=1000" alt="Cosmic Typing SVG"/>
 </div>
 
 ---
 
 <p align="center">
-  <i>"Jadilah versi terbaik dari dirimu, dan biarkan kodenya berbicara!"</i>
+  <i>"Kehidupan adalah seni, dan kodenya adalah karya agung yang mengguncang alam semesta!"</i>
 </p>
