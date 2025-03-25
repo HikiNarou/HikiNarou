@@ -1,5 +1,5 @@
 # Hi, I'm HikiNarou! 👋
-## Selamat datang di dunia saya yang super dewa! ⚡️
+## Selamat datang di profileku yang sederhana ini :)
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HikiNarou)](https://github.com/HikiNarou)
 
 <div align="center">
@@ -73,7 +73,7 @@
 
 ### My Journey 🚀
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+realm;I+code+like+a+DEWA;Innovating+the+future+of+tech;Let's+build+something+epic!&center=true&size=28&color=F700FF&pause=1000" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+realm;I+code+like+a+VICENZOO;Innovating+the+future+of+tech;Let's+build+something+epic!&center=true&size=28&color=F700FF&pause=1000" alt="Typing SVG"/>
 </div>
 
 ---
