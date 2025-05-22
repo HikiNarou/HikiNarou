@@ -1,4 +1,4 @@
-# Hi, I'm HikiNarou! 👋
+# HikiNarou Developer 👋
 ## Selamat datang di profileku yang sederhana ini :)
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HikiNarou)](https://github.com/HikiNarou)
 
