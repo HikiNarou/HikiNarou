@@ -1,71 +1,93 @@
-<h1 align="center">Nurhadi — HikiNarou</h1>
+<div align="center">
 
-<p align="center">
-  Mahasiswa <b>Manajemen Informatika</b> — Politeknik Negeri Sriwijaya (POLSRI), Palembang<br>
-  Web Development · Mobile (Kotlin) · Privacy &amp; Security Tooling
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=HikiNarou&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Raihan%20Nurhadi%20%C2%B7%20Informatics%20Management%20Student&descAlignY=58&descSize=18" alt="HikiNarou - Raihan Nurhadi, Informatics Management Student" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=620&height=44&lines=Mahasiswa+Manajemen+Informatika+%40+Polsri;Building+web%2C+desktop+%26+Android+apps;Currently+learning%3A+Python+%26+Machine+Learning;Build.+Break.+Fix.+Repeat." alt="Typing animation" />
+
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HikiNarou&left_color=0d1117&right_color=1f6feb&left_text=Profile%20Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/HikiNarou?style=flat-square&logo=github&label=Followers&labelColor=0d1117&color=1f6feb" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea043?style=flat-square&labelColor=0d1117" alt="Open to collaboration" />
 </p>
 
-<p align="center">
-  <a href="mailto:hikinarou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/HikiNarou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://hikinarou.github.io"><img src="https://img.shields.io/badge/Portfolio-121212?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-</p>
+</div>
 
----
+## 👋 Tentang Saya
 
-## Tentang Saya
+Halo, selamat datang di profil saya yang sederhana ini :)
 
-Mahasiswa Manajemen Informatika POLSRI yang fokus membangun aplikasi web dan mobile
-untuk kebutuhan nyata — mulai dari sistem informasi internal perusahaan sampai tooling
-privasi di sisi browser. Saya tertarik pada arsitektur aplikasi yang bersih, REST API,
-dan penerapan machine learning sederhana pada sistem rekomendasi.
+Saya **Raihan**, mahasiswa **D-IV Manajemen Informatika** di **Politeknik Negeri Sriwijaya (Polsri)**. Saya suka membangun tools yang benar-benar berguna, mulai dari web app, aplikasi desktop, sampai aplikasi Android. Saat ini lagi memperdalam TypeScript & React, sambil "balik lagi" ke Python untuk masuk ke dunia Machine Learning.
 
-- **Fokus saat ini:** pengembangan sistem informasi berbasis web & Android (Kotlin), REST API
-- **Sedang dipelajari:** Python untuk data & machine learning, keamanan aplikasi web
-- **Minat kolaborasi:** proyek open source, tugas akhir/penelitian bidang sistem informasi
-- **Kontak:** [hikinarou@gmail.com](mailto:hikinarou@gmail.com)
+```ts
+const hikiNarou = {
+  name: "Raihan Nurhadi",
+  pronouns: "he/him",
+  studying: "D-IV Manajemen Informatika @ Politeknik Negeri Sriwijaya",
+  building: "Manga Watermark Tool",
+  learning: ["Python (revisit)", "Machine Learning"],
+  askMeAbout: ["React & TypeScript", "Python GUI & scraping", "belajar ML"],
+  openTo: "Kolaborasi di project yang menarik",
+  contact: "hikinarou@gmail.com",
+};
+```
 
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Kategori | Teknologi |
-|---|---|
-| Bahasa | PHP, JavaScript, TypeScript, Python, Kotlin, SQL |
-| Frontend | HTML5, CSS3, Tailwind CSS, React, Next.js |
-| Backend | Laravel, Node.js, REST API |
-| Mobile | Android (Kotlin), Kotlin Multiplatform |
-| Database | MySQL, PostgreSQL, SQLite |
-| Tools | Git, GitHub Actions, VS Code, Postman, Figma |
+| :-- | :-- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **Testing & Tools** | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
+| **Sedang dipelajari** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-in_progress-8957E5?style=flat-square&logo=python&logoColor=white) |
 
----
+## 🚀 Featured Projects
 
-## Proyek Pilihan
+| Project | Deskripsi | Tech |
+| :-- | :-- | :-- |
+| [**Manga Watermark Tool**](https://github.com/HikiNarou/Manga-Watermark-Tool) | Web app untuk batch watermark gambar manga: watermark teks/gambar, crop, preset kompresi, rename massal, dan export ZIP. Ada juga fitur AI editing yang masih eksperimental. Diuji dengan property-based testing. | `React` `TypeScript` `Vite` `Tailwind` `Vitest` |
+| [**Novel Scraping GUI**](https://github.com/HikiNarou/GUI-for-Novel-Scraping) | Aplikasi desktop untuk scraping konten novel/blog dengan crawling paralel, unduh gambar paralel + auto-retry, dan export ke PDF / EPUB / TXT. | `Python` `PyQt5` `Selenium` |
+| [**OptiRoute**](https://github.com/HikiNarou/OptiRoute) | Sistem optimasi rute pengiriman barang berbasis mobile untuk UMKM, memakai pendekatan Vehicle Routing Problem (VRP). Project akhir semester (kelompok) mata kuliah Pemrograman Berorientasi Objek. | `Kotlin` `Android` |
 
-| Proyek | Deskripsi | Stack |
-|---|---|---|
-| [KabutStealth](https://github.com/HikiNarou/KabutStealth) | Ekstensi Chromium (MV3) untuk proteksi anti-fingerprinting: farbling Canvas/WebGL/Audio, sanitasi WebRTC SDP, IPC terenkripsi. | JavaScript, Manifest V3 |
-| [SUMO-BSB](https://github.com/HikiNarou/SUMO-BSB) | Sistem monitoring dan verifikasi pendistribusian surat masuk/keluar untuk Bank Sumsel Babel Kantor Pusat. | Laravel, MySQL |
-| [Kiro-Auto-Pro](https://github.com/HikiNarou/Kiro-Auto-Pro) | Tooling otomasi dengan TypeScript. Proyek dengan adopsi komunitas terbanyak (70+ stars, 48 forks). | TypeScript |
-| [Sikma-ML](https://github.com/HikiNarou/Sikma-ML) | Sistem rekomendasi magang menggunakan pendekatan content-based filtering. | JavaScript, ML |
-| [SpotThea-Laravel](https://github.com/HikiNarou/SpotThea-Laravel) | Theme web reader dengan arsitektur Laravel + Next.js. | Laravel, Next.js |
-| [OptiRoute](https://github.com/HikiNarou/OptiRoute) | Aplikasi Android optimasi rute sebagai proyek akhir semester. | Kotlin |
+Repo lainnya bisa dilihat di [tab Repositories](https://github.com/HikiNarou?tab=repositories).
 
----
+## 📊 GitHub Stats
 
-## Aktivitas GitHub
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HikiNarou&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikiNarou&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top Languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HikiNarou&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HikiNarou&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="HikiNarou GitHub stats" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HikiNarou&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikiNarou&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Top languages" height="170" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HikiNarou&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=HikiNarou&theme=default&hide_border=true" alt="GitHub streak" />
+</picture>
+
+</div>
+
+## 🤝 Let's Connect
+
+Terbuka untuk ngobrol soal coding, project bareng, atau sekadar tukar ilmu.
+
+<p>
+  <a href="mailto:hikinarou@gmail.com"><img src="https://img.shields.io/badge/Email-hikinarou%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://hikinarou.com"><img src="https://img.shields.io/badge/Website-hikinarou.com-1F6FEB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://instagram.com/hikinarou"><img src="https://img.shields.io/badge/Instagram-%40hikinarou-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HikiNarou&hide_border=true&theme=github_dark" alt="GitHub Streak">
-</p>
+<!-- LinkedIn: aktifkan kalau sudah punya & aktif. Ganti USERNAME dengan username LinkedIn kamu.
+<a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Raihan%20Nurhadi-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+-->
 
----
+<div align="center">
 
-<p align="center">
-  <sub>Terbuka untuk diskusi teknis, kolaborasi proyek, dan kesempatan magang.</sub>
-</p>
+<sub><i>"Jadilah versi terbaik dari dirimu, dan biarkan kodenya berbicara!"</i></sub>
+
+</div>
