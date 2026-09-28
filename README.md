@@ -1,83 +1,77 @@
-# HikiNarou Developer 👋
-## Selamat datang di profileku yang sederhana ini :)
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=HikiNarou)](https://github.com/HikiNarou)
+<h1 align="center">Halo, saya HikiNarou</h1>
 
-<div align="center">
-  <!-- Banner modern -->
-  <img src="https://raw.githubusercontent.com/HikiNarou/brand/main/banner.png" alt="HikiNarou Banner" width="100%">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&height=40&lines=Mahasiswa+Informatika;Python+%26+Web+Development;Belajar+Machine+Learning" alt="Mahasiswa Informatika | Python & Web Development | Belajar Machine Learning" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HikiNarou" alt="Jumlah pengunjung profil" />
+</p>
 
-<div align="center">
-  <!-- GIF Sambutan -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hello GIF" width="80"/>
-</div>
+## About Me
 
----
+Mahasiswa Informatika yang tertarik pada pengembangan perangkat lunak, web scraping, dan machine learning. Saat ini saya sedang memperdalam Python sambil mengerjakan proyek pribadi.
 
-### About Me
-- 🔭 **Proyek Terkini:** [NovelScraping](https://github.com/HikiNarou/GUI-for-Novel-Scraping)
-- 🌱 **Sedang Belajar:** Python again & Machine Learning with AI 
-- 👯 **Kolaborasi:** Terbuka untuk proyek ambisius dan inovatif
-- 💬 **Tanya Saya:** Yuk bahas seputar coding, desain modern, & rahasia sukses!
-- 📫 **Hubungi Saya:** [HikiNarou@gmail.com](mailto:hikinarou@gmail.com)
-- 😄 **Pronouns:** He/Him
+```python
+class HikiNarou:
+    building     = "NovelScraping"  # GUI scraper berbasis Python
+    learning     = ["Python (memperdalam)", "Machine Learning"]
+    ask_me_about = ["Coding", "Web Development", "Desain UI"]
+    open_to      = ["Kolaborasi proyek", "Open source"]
+    pronouns     = "He/Him"
+```
 
----
+## Tech Stack
 
-### Skills & Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</div>
+<!-- Tambah atau ganti ikon lewat parameter ?i= (daftar ikon: https://skillicons.dev) -->
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,js" alt="Python, JavaScript" /></td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nodejs" alt="HTML, CSS, React, Node.js" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /></td>
+  </tr>
+</table>
 
----
+## Featured Project
 
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HikiNarou&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikiNarou&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+**[NovelScraping](https://github.com/HikiNarou/GUI-for-Novel-Scraping)** — aplikasi desktop berbasis Python dan PyQt5 untuk scraping konten blog/novel dan menyimpannya ke format yang mudah dibaca.
 
----
+- **Text Scraper:** crawling paralel dengan `ThreadPoolExecutor`, unduh gambar paralel dengan auto-retry, ekspor ke PDF, EPUB, dan TXT
+- **Image OCR Scraper:** ekstraksi teks dari gambar (integrasi OCR masih dalam pengembangan)
+- **Stack:** Python, PyQt5, Requests, BeautifulSoup4, Selenium, pdfkit
 
-### GitHub Streak
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=HikiNarou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+## GitHub Stats
 
----
+<!-- Kartu di bawah memakai layanan pihak ketiga. Jika sesekali gagal dimuat, biasanya karena rate limit dan akan pulih sendiri. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HikiNarou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikiNarou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-### Connect with Me
-<div align="center">
-  <a href="https://twitter.com/HikiNarou">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/HikiNarou">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/HikiNarou">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/HikiNarou">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HikiNarou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
+## Contact
 
-### My Journey 🚀
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+realm;I+code+like+a+VICENZOO;Innovating+the+future+of+tech;Let's+build+something+epic!&center=true&size=28&color=F700FF&pause=1000" alt="Typing SVG"/>
-</div>
+Terbuka untuk diskusi dan kolaborasi. Silakan hubungi saya melalui:
+
+<p align="center">
+  <a href="mailto:hikinarou@gmail.com"><img src="https://img.shields.io/badge/Email-HikiNarou%40gmail.com-D14836?style=flat-square" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/HikiNarou"><img src="https://img.shields.io/badge/LinkedIn-HikiNarou-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/HikiNarou"><img src="https://img.shields.io/badge/Instagram-%40HikiNarou-E4405F?style=flat-square" alt="Instagram" /></a>
+  <a href="https://x.com/HikiNarou"><img src="https://img.shields.io/badge/X-%40HikiNarou-000000?style=flat-square" alt="X" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Jadilah versi terbaik dari dirimu, dan biarkan kodenya berbicara!"</i>
+  <i>Jadilah versi terbaik dari dirimu, dan biarkan kodenya berbicara.</i>
 </p>
